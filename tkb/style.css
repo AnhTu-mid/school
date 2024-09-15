@@ -279,4 +279,7 @@ body{
 	.table .subjects-class > * > *:not(.evening):not(#X):not(.day-item):hover{
 		letter-spacing: 2.5px;
 	}
+	.table .time_container > *{
+		padding: 2.5px 5px;
+	}
 }
